@@ -1,3 +1,3 @@
 calorie-calculator
 ==================
-the ugliest php calculator ever. (school project)
+the messiest php calculator ever. (for a school project)
